@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayMaker Unity 2D/Components/PlayMakerUnity2DProxy.cs">
+    <Files>
+      <File FileName="Assets/PlayMaker/Actions/CollisionEvent.cs" Line="25" Column="1" />
+      <File FileName="Assets/PlayMaker Unity 2D/Components/PlayMakerUnity2DProxy.cs" Line="97" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
