@@ -157,6 +157,7 @@
      <Compile Include="Assets\PlayMaker Custom Actions\2dtoolkit\TextMesh\Tk2dTextMeshSetText.cs" />
      <Compile Include="Assets\PlayMaker Custom Actions\2dtoolkit\TextMesh\Tk2dTextMeshSetTextureGradient.cs" />
      <Compile Include="Assets\PlayMaker Custom Actions\2dtoolkit\TextMesh\Tk2dtextMeshSetProperties.cs" />
+     <Compile Include="Assets\PlayMaker Custom Actions\FloatRemainder.cs" />
      <Compile Include="Assets\PlayMaker Unity 2D\Actions\AddTorque2d.cs" />
      <Compile Include="Assets\PlayMaker Unity 2D\Actions\Addforce2d.cs" />
      <Compile Include="Assets\PlayMaker Unity 2D\Actions\Collision2dEvent.cs" />
