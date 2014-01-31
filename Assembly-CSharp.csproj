@@ -158,6 +158,9 @@
      <Compile Include="Assets\PlayMaker Custom Actions\2dtoolkit\TextMesh\Tk2dTextMeshSetTextureGradient.cs" />
      <Compile Include="Assets\PlayMaker Custom Actions\2dtoolkit\TextMesh\Tk2dtextMeshSetProperties.cs" />
      <Compile Include="Assets\PlayMaker Custom Actions\FloatRemainder.cs" />
+     <Compile Include="Assets\PlayMaker Custom Actions\FloatRound.cs" />
+     <Compile Include="Assets\PlayMaker Custom Actions\IntModulo.cs" />
+     <Compile Include="Assets\PlayMaker Custom Actions\RandomWait.cs" />
      <Compile Include="Assets\PlayMaker Unity 2D\Actions\AddTorque2d.cs" />
      <Compile Include="Assets\PlayMaker Unity 2D\Actions\Addforce2d.cs" />
      <Compile Include="Assets\PlayMaker Unity 2D\Actions\Collision2dEvent.cs" />
@@ -741,6 +744,7 @@
      <Compile Include="Assets\PlayMaker\Actions\iTween\iTweenShakeScale.cs" />
      <Compile Include="Assets\PlayMaker\Actions\iTween\iTweenStop.cs" />
      <Compile Include="Assets\PlayMaker\Include\iTweenFSMEvents.cs" />
+     <Compile Include="Assets\Scripts\ParticleRenderLayer.cs" />
      <Compile Include="Assets\TK2DROOT\tk2d\Code\Camera\tk2dCamera.cs" />
      <Compile Include="Assets\TK2DROOT\tk2d\Code\Camera\tk2dCameraAnchor.cs" />
      <Compile Include="Assets\TK2DROOT\tk2d\Code\Camera\tk2dCameraUtil.cs" />
