@@ -46,6 +46,39 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\InControl\Debug\Logger.cs" />
+     <Compile Include="Assets\InControl\InputControl.cs" />
+     <Compile Include="Assets\InControl\InputControlMapping.cs" />
+     <Compile Include="Assets\InControl\InputControlSource.cs" />
+     <Compile Include="Assets\InControl\InputControlState.cs" />
+     <Compile Include="Assets\InControl\InputControlType.cs" />
+     <Compile Include="Assets\InControl\InputDevice.cs" />
+     <Compile Include="Assets\InControl\InputDeviceManager.cs" />
+     <Compile Include="Assets\InControl\InputManager.cs" />
+     <Compile Include="Assets\InControl\Unity\ControlSources\UnityAnalogSource.cs" />
+     <Compile Include="Assets\InControl\Unity\ControlSources\UnityButtonSource.cs" />
+     <Compile Include="Assets\InControl\Unity\ControlSources\UnityKeyCodeAxisSource.cs" />
+     <Compile Include="Assets\InControl\Unity\ControlSources\UnityKeyCodeSource.cs" />
+     <Compile Include="Assets\InControl\Unity\ControlSources\UnityMouseAxisSource.cs" />
+     <Compile Include="Assets\InControl\Unity\ControlSources\UnityMouseButtonSource.cs" />
+     <Compile Include="Assets\InControl\Unity\CustomProfiles\BasicKeyboardProfile.cs" />
+     <Compile Include="Assets\InControl\Unity\CustomProfiles\FPSProfile.cs" />
+     <Compile Include="Assets\InControl\Unity\DeviceProfiles\GameStickProfile.cs" />
+     <Compile Include="Assets\InControl\Unity\DeviceProfiles\OuyaProfile.cs" />
+     <Compile Include="Assets\InControl\Unity\DeviceProfiles\OuyaWinProfile.cs" />
+     <Compile Include="Assets\InControl\Unity\DeviceProfiles\Playstation3MacProfile.cs" />
+     <Compile Include="Assets\InControl\Unity\DeviceProfiles\Playstation3OuyaProfile.cs" />
+     <Compile Include="Assets\InControl\Unity\DeviceProfiles\Playstation3WinProfile.cs" />
+     <Compile Include="Assets\InControl\Unity\DeviceProfiles\Playstation4LinuxProfile.cs" />
+     <Compile Include="Assets\InControl\Unity\DeviceProfiles\Playstation4MacProfile.cs" />
+     <Compile Include="Assets\InControl\Unity\DeviceProfiles\Playstation4WinProfile.cs" />
+     <Compile Include="Assets\InControl\Unity\DeviceProfiles\Xbox360MacProfile.cs" />
+     <Compile Include="Assets\InControl\Unity\DeviceProfiles\Xbox360OuyaProfile.cs" />
+     <Compile Include="Assets\InControl\Unity\DeviceProfiles\Xbox360WinProfile.cs" />
+     <Compile Include="Assets\InControl\Unity\UnityInputDevice.cs" />
+     <Compile Include="Assets\InControl\Unity\UnityInputDeviceManager.cs" />
+     <Compile Include="Assets\InControl\Unity\UnityInputDeviceProfile.cs" />
+     <Compile Include="Assets\InControl\Unity\UnknownDeviceProfile.cs" />
      <Compile Include="Assets\Photon Unity Networking\PlayMaker\Actions\PhotonGUILayoutToolBarWithPlayers.cs" />
      <Compile Include="Assets\Photon Unity Networking\PlayMaker\Actions\PhotonGUILayoutToolBarWithRooms.cs" />
      <Compile Include="Assets\Photon Unity Networking\PlayMaker\Actions\PhotonNetworkConnectManually.cs" />
@@ -157,6 +190,7 @@
      <Compile Include="Assets\PlayMaker Custom Actions\2dtoolkit\TextMesh\Tk2dTextMeshSetText.cs" />
      <Compile Include="Assets\PlayMaker Custom Actions\2dtoolkit\TextMesh\Tk2dTextMeshSetTextureGradient.cs" />
      <Compile Include="Assets\PlayMaker Custom Actions\2dtoolkit\TextMesh\Tk2dtextMeshSetProperties.cs" />
+     <Compile Include="Assets\PlayMaker Custom Actions\CheckPlatform.cs" />
      <Compile Include="Assets\PlayMaker Custom Actions\FloatRemainder.cs" />
      <Compile Include="Assets\PlayMaker Custom Actions\FloatRound.cs" />
      <Compile Include="Assets\PlayMaker Custom Actions\IntModulo.cs" />
@@ -745,6 +779,7 @@
      <Compile Include="Assets\PlayMaker\Actions\iTween\iTweenStop.cs" />
      <Compile Include="Assets\PlayMaker\Include\iTweenFSMEvents.cs" />
      <Compile Include="Assets\Scripts\ParticleRenderLayer.cs" />
+     <Compile Include="Assets\Scripts\RotatorInput.cs" />
      <Compile Include="Assets\TK2DROOT\tk2d\Code\Camera\tk2dCamera.cs" />
      <Compile Include="Assets\TK2DROOT\tk2d\Code\Camera\tk2dCameraAnchor.cs" />
      <Compile Include="Assets\TK2DROOT\tk2d\Code\Camera\tk2dCameraUtil.cs" />
