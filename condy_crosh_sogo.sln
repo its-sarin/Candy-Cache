@@ -7,6 +7,8 @@ Project("{149BC7AF-8A60-DC1F-2B83-7E1C6D5847E7}") = "condy_crosh_sogo", "Assembl
 EndProject
 Project("{149BC7AF-8A60-DC1F-2B83-7E1C6D5847E7}") = "condy_crosh_sogo", "Assembly-UnityScript-firstpass.unityproj", "{BCD34363-2064-7414-5AA3-2B4845B32404}"
 EndProject
+Project("{149BC7AF-8A60-DC1F-2B83-7E1C6D5847E7}") = "condy_crosh_sogo", "Assembly-UnityScript.unityproj", "{470905BE-0FC1-66AA-CAD2-073209E16124}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,11 +27,15 @@ Global
 		{BCD34363-2064-7414-5AA3-2B4845B32404}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCD34363-2064-7414-5AA3-2B4845B32404}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCD34363-2064-7414-5AA3-2B4845B32404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{470905BE-0FC1-66AA-CAD2-073209E16124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{470905BE-0FC1-66AA-CAD2-073209E16124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{470905BE-0FC1-66AA-CAD2-073209E16124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{470905BE-0FC1-66AA-CAD2-073209E16124}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																													GlobalSection(MonoDevelopProperties) = preSolution
+																																				GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

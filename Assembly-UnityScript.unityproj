@@ -46,9 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\PlayerPrefsPlus\Demo.js" />
-     <Compile Include="Assets\PlayerPrefsPlus\Plugins\PlayerPrefsArray.js" />
-     <Compile Include="Assets\PlayerPrefsPlus\Plugins\PlayerPrefsPlus.js" />
+     <Compile Include="Assets\Scripts\KongregateAPI.js" />
      <None Include="Assets\Photon Unity Networking\PlayMaker\ReleaseNotes.txt" />
      <None Include="Assets\TK2DROOT\tk2d\Shaders\LitSolidVertexColor.shader" />
      <None Include="Assets\PlayMaker\Readme.txt" />

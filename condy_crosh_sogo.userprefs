@@ -1,8 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../network_test/Assets/Photon Unity Networking/Editor/PhotonNetwork/PhotonEditor.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/KongregateAPI.js">
     <Files>
-      <File FileName="../network_test/Assets/Photon Unity Networking/Editor/PhotonNetwork/PhotonEditor.cs" Line="818" Column="53" />
+      <File FileName="Assets/Scripts/KongregateAPI.js" Line="29" Column="64" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
